@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private static int RESULT_LOAD_IMAGE =1;
-    private static int IMAGE_REQUEST_CAMERA = 8;
+    private static int IMAGE_REQUEST_CAMERA = 10;
     ImageView imageView;
     Button cameraButton, galleryButton;
 
